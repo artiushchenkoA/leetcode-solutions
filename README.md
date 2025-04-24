@@ -4,7 +4,7 @@
 - 🟡 Medium (to be uploaded)
 - 🔴 Hard  (to be uploaded)
 
-## ✅ Solved Easy Problems
+## ✅ Solved Problems
 
 | #    | Title                                       | Difficulty | Folder Path                                         |
 |------|---------------------------------------------|------------|-----------------------------------------------------|
@@ -20,6 +20,7 @@
 | 414  | Third Maximum Number                        | 🟢 Easy    | [`414. Third Maximum Number`](./1.%20Easy/414.%20Third%20Maximum%20Number) |
 | 1108 | Defanging an IP Address                     | 🟢 Easy    | [`1108. Defanging an IP Address`](./1.%20Easy/1108.%20Defanging%20an%20IP%20Address) |
 | 1512 | Number of Good Pairs                        | 🟢 Easy    | [`1512. Number of Good Pairs`](./1.%20Easy/1512.%20Number%20of%20Good%20Pairs) |
+| 1769 | Minimum Number of Operations to Move All Balls to Each Box     | 🟡 Medium    | [`1769. Minimum Number of Operations to Move All Balls to Each Box`](./2.%20Medium/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20Each%20Box) |
 | 1920 | Build Array from Permutation                | 🟢 Easy    | [`1920. Build Array from Permutation`](./1.%20Easy/1920.%20Build%20Array%20from%20Permutation) |
 | 2235 | Add Two Integers                            | 🟢 Easy    | [`2235. Add Two Integers`](./1.%20Easy/2235.%20Add%20Two%20Integers) |
 | 2469 | Convert the Temperature                     | 🟢 Easy    | [`2469. Convert the Temperature`](./1.%20Easy/2469.%20Convert%20the%20Temperature) |
